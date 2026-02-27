@@ -22,6 +22,9 @@
     <!-- Modules inside this project -->
     <modules>
         <module>generics-tasks</module>
+        <module>streams-tasks</module>
     </modules>
+
+
 
 </project>
